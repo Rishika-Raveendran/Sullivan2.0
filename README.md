@@ -1,5 +1,7 @@
 # Sullivan 2.0
 
+Remembering and mimicking Anne Sullivan, the greatest teacher of all times.
+
 ![](https://drive.google.com/uc?export=view&id=18Kx6mRgAL4L9CgqJfHAqoWDA78Vic3Xy)
 
 ## Our team
